@@ -1,0 +1,3 @@
+git init will prepare the directory to start tracking changes
+
+having files in staging area will start tracking file changes
