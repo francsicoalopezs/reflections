@@ -7,3 +7,7 @@ I like to pull changes manually because I now exactly when is the best time to d
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks will clone a project withing git-hub and make links between them.  Clones will happen only locally.  And branches are different versions labeled
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+To compare my version with the latest published version
