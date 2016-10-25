@@ -3,3 +3,7 @@ This is the content of the new file.
 Remote repository should be used when working in a team for collaboration, and also may be created as backup up in case something bad happens to my local system.
 
 I like to pull changes manually because I now exactly when is the best time to do it and have control of it.  No all changes have to be pulled up
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks will clone a project withing git-hub and make links between them.  Clones will happen only locally.  And branches are different versions labeled
