@@ -11,3 +11,11 @@ forks will clone a project withing git-hub and make links between them.  Clones 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To compare my version with the latest published version
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+na
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I want to work in an special feature and dont want to affect the master version yer.  It is like a trial that later on I will decide if apply or not the change base on the results.
